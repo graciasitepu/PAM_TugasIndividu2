@@ -4,7 +4,6 @@
 Closure adalah fungsi di dalam fungsi lain, artinya suatu fungsi sebagai outer function yang di dalamnya terdapat inner function yang dapat mengakses variabel yang dimiliki oleh fungsi luar/outer, juga mengakses variabel lokal dan variabel global. Berikut ini contoh sederhana closure:
 
 
-
 ### 2. Immediately Invoked Function Expression
 
 ### 3. First-class function
