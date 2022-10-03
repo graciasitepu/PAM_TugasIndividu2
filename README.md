@@ -62,11 +62,14 @@ Pada program ini, argument nama akan digunakan di function kedua setelah functio
 
 ### 9. Promises dan Async/Await
 Promises adalah suatu objek yang akan merepresentasikan keberhasilan atau kegagalan suatu proses yang asynchronous dimana proses promise tersebut memiliki dua kemungkinan yaitu dapat terpenuhi atau tidak terpenuhi. Pada promises menggunakan dua parameter yaitu resolve dan reject serta memiliki state yang kemungkinan terjadi yaitu panding (dalam proses), resolved (promise berhasil/ terpenuhi) dan rejected (tidak terpenuhi/gagal). Untuk resolve dilakukan aksi yaitu method .then sedangkan reject dilakukan aksi dengan method .catch. Berikut contoh promises:
- 
+
+![promises](https://user-images.githubusercontent.com/104087436/193604543-64be4451-1e36-450c-8e5a-f075cf2355ce.png)
+
 Pada program diatas, aksi yang dijalankan yaitu catch dikarenakan menggunakan parameter reject dimana kejadian yang terjadi tidak terpenuhi. Oleh karena itu, aksi  than tidak terpanggil dan hasil yang dikembalikan setelah di console adalah error : tidak terpenuhi. 
 
 Async/await terbagi menjadi asyncronous function dan await. Asyncronous function merupakan fungsi yang dijalankan secara asyncronous dan akan menghasilkan sebuah promise sebagai nilai kembaliannya. Sedangkan await adalah fungsi yang akan memberhentikan atau menunda proses eksekusi kode hingga proses asyn selesai. Berikut contoh asyinc/await:
-  
-Berikut ini referensi pembahasan dari materi promises dan async dan await [Klik disini](https://www.w3schools.com/js/js_async.asp) dan [Klik disini](https://www.kawankoding.id/javascript-async-await/). 
 
+![async await](https://user-images.githubusercontent.com/104087436/193604655-0956a7d0-574e-428d-8bab-38afbbdc9785.png)
+
+Berikut ini referensi pembahasan dari materi promises dan async dan await [Klik disini](https://www.w3schools.com/js/js_async.asp) dan [Klik disini](https://www.kawankoding.id/javascript-async-await/). 
 
