@@ -71,5 +71,4 @@ Pada program diatas, aksi yang dijalankan yaitu catch dikarenakan menggunakan pa
 
 ![async await](https://user-images.githubusercontent.com/104087436/193604655-0956a7d0-574e-428d-8bab-38afbbdc9785.png)
 
-Berikut ini referensi pembahasan dari materi promises dan async dan await [Klik disini](https://www.w3schools.com/js/js_async.asp) dan [Klik disini](https://www.kawankoding.id/javascript-async-await/). 
-
+Pada program ini, digunakan fungsi async dan await dimana ketika program dieksekusi maka akan memerlukan waktu beberapa detik menunggu sampai output resolve atau terpenuhi ditampilkan. Berikut ini referensi pembahasan dari materi promises dan async dan await [Klik disini](https://www.w3schools.com/js/js_async.asp) dan [Klik disini](https://www.kawankoding.id/javascript-async-await/). 
